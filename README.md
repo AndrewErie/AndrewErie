@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Unity and C#
 - 💞️ I’m looking to collaborate on Game Development
 
--    I work by day as Senior Systems Engineer and Developer
+-    I work by day as a Sr. Systems Engineer and Developer
 
 <!---
 AndrewErie/AndrewErie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
